@@ -2,4 +2,5 @@
 
 Install requirements.txt
 
-run - streamlit run app.py
+Open the terminal and enter the following command 
+"streamlit run app.py"
